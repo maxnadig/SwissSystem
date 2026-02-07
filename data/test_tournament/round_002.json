@@ -1,0 +1,24 @@
+{
+  "number": 2,
+  "games": [
+    {
+      "player1": "Charlie",
+      "player2": null,
+      "points1": 1,
+      "points2": 0
+    },
+    {
+      "player1": "Eve",
+      "player2": "Alice",
+      "points1": 4,
+      "points2": 2
+    },
+    {
+      "player1": "David",
+      "player2": "Bob",
+      "points1": 4,
+      "points2": 2
+    }
+  ],
+  "preset": false
+}

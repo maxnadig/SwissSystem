@@ -1,0 +1,52 @@
+{
+  "name": "test_tournament",
+  "folder": "data\\test_tournament",
+  "rounds": [],
+  "players": [
+    {
+      "name": "Alice",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Bob",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Charlie",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "David",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Eve",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    }
+  ]
+}
