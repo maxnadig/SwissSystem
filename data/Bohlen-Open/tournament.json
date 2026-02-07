@@ -1,0 +1,133 @@
+{
+  "name": "Bohlen-Open",
+  "folder": "data\\Bohlen-Open",
+  "rounds": [],
+  "players": [
+    {
+      "name": "Stephi C.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Sandro J.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Marina R.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Rene W.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Sarah C.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Max N.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Nico C.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Marco S.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Sven S.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Frido P.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Sandro H.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Flo W.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Sevi L.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    },
+    {
+      "name": "Janine L.",
+      "buchholz_score": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "wins": 0,
+      "losses": 0,
+      "had_bye": false
+    }
+  ]
+}
