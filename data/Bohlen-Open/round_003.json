@@ -1,0 +1,48 @@
+{
+  "number": 3,
+  "games": [
+    {
+      "player1": "Stephi C.",
+      "player2": "Frido P.",
+      "points1": 4,
+      "points2": 1
+    },
+    {
+      "player1": "Marina R.",
+      "player2": "Sven S.",
+      "points1": 4,
+      "points2": 3
+    },
+    {
+      "player1": "Rene W.",
+      "player2": "Sevi L.",
+      "points1": 4,
+      "points2": 3
+    },
+    {
+      "player1": "Sandro H.",
+      "player2": "Marco S.",
+      "points1": 3,
+      "points2": 4
+    },
+    {
+      "player1": "Max N.",
+      "player2": "Nico C.",
+      "points1": 4,
+      "points2": 0
+    },
+    {
+      "player1": "Sarah C.",
+      "player2": "Janine L.",
+      "points1": 1,
+      "points2": 4
+    },
+    {
+      "player1": "Sandro J.",
+      "player2": "Flo W.",
+      "points1": 2,
+      "points2": 4
+    }
+  ],
+  "preset": false
+}

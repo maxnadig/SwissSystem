@@ -1,0 +1,18 @@
+{
+  "number": 5,
+  "games": [
+    {
+      "player1": "Sevi L.",
+      "player2": "Sven S.",
+      "points1": 0,
+      "points2": 0
+    },
+    {
+      "player1": "Janine L.",
+      "player2": "Rene W.",
+      "points1": 0,
+      "points2": 0
+    }
+  ],
+  "preset": true
+}
